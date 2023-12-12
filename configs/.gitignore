@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+
+# Build files
+build/
+dist/
+*.zip
+
+# Environment files
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Logs and databases
+*.log
+*.sqlite
