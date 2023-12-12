@@ -18,7 +18,7 @@ app.use(bodyParser.json());
 
 
 
-// API routes
+//All  API routes will be here bellow
 app.use('/api', userRoutes);
 
 
